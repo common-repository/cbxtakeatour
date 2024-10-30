@@ -1,0 +1,63 @@
+.tour_postbox {
+  .takeatour_meta_holder {
+    padding-top: 20px;
+  }
+
+  .cbxtourmetabox_wrap {
+    padding: 10px;
+  }
+}
+
+.cbxtakeatour_popover {
+  .arrowbottom {
+    position: absolute;
+    display: block;
+    width: 10px;
+    height: 5px;
+
+    &:before, &:after {
+      position: absolute;
+      display: block;
+      border-color: transparent;
+      border-style: solid;
+    }
+
+    &:before {
+      content: "";
+      border-width: 11px;
+    }
+
+    &:after {
+      content: "";
+      border-width: 11px;
+    }
+  }
+
+  &.bs-cbxtakeatour_popover-top, &.bs-cbxtakeatour_popover-auto[x-placement^=top] {
+    margin-bottom: 10px;
+
+    .arrowbottom {
+      bottom: 0;
+
+      &:before, &:after {
+        border-bottom-width: 0;
+      }
+
+      &:before {
+        bottom: -11px;
+        margin-left: -6px;
+        border-top-color: rgba(0, 0, 0, 0.25);
+      }
+
+      &:after {
+        bottom: -10px;
+        margin-left: -6px;
+        border-top-color: #fff;
+      }
+    }
+  }
+}
+
+tr.no-items{
+  text-align: center;
+}

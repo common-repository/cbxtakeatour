@@ -1,0 +1,30 @@
+#adminmenu .wp-menu-open#toplevel_page_cbxtakeatour-listing a.menu-top {
+  background: #6648fe !important;
+  color: #fff !important;
+}
+
+#toplevel_page_cbxtakeatour-listing .wp-submenu li.current,
+#toplevel_page_cbxtakeatour-listing .wp-submenu li.current:hover {
+  background: #765baf !important;
+  color: #fff !important;
+  font-weight: bold !important;
+}
+
+#toplevel_page_cbxtakeatour-listing .wp-submenu li:hover {
+  background: #A796CA !important;
+  color: #fff !important;
+  font-weight: normal !important;
+}
+
+#toplevel_page_cbxtakeatour-listing .wp-submenu li a:focus,
+#toplevel_page_cbxtakeatour-listing .wp-submenu li a:hover {
+  color: #fff !important;
+}
+
+#adminmenu .toplevel_page_cbxtakeatour-listing .wp-menu-image{
+  height: 34px;
+  img{
+    padding:5px 0 0 0 !important;
+    vertical-align: middle;
+  }
+}

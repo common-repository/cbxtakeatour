@@ -1,0 +1,223 @@
+.description{
+	display: block;
+}
+
+.global_setting_heading_section {
+	h3 {
+		&.setting_heading {
+			cursor: pointer;
+			color: #6648fe;
+			font-size: 15px !important;
+			line-height: 1.2 !important;
+			font-weight: normal !important;
+			background-color: rgba(102, 72, 254, .2);
+			padding: 0 8px;
+			margin-bottom: 8px !important;
+			border-radius: 5px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			gap: 15px;
+		}
+
+		a {
+			&.setting_heading_toggle {
+				background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='h-5 w-5' viewBox='0 0 20 20' fill='%236648fe'%3E%3Cpath fill-rule='evenodd' d='M10 18a8 8 0 100-16 8 8 0 000 16zM7 9a1 1 0 000 2h6a1 1 0 100-2H7z' clip-rule='evenodd' /%3E%3C/svg%3E");
+				width: 26px;
+				height: 26px;
+				background-repeat: no-repeat;
+				background-size: contain;
+				font-size: 0px;
+			}
+		}
+	}
+
+
+	h4 {
+		&.setting_subheading {
+			color: #6648fe;
+			font-size: 22px;
+			font-weight: 700;
+			background-color: rgba(102, 72, 254, .2);
+			padding: 15px 20px;
+			border-radius: 5px;
+		}
+	}
+
+	.description {
+		padding-left: 20px;
+	}
+}
+
+.cbx-export-import-wrapper {
+	display: none;
+
+	.cbx-export-import-inner {
+
+		background: #fff;
+		padding: 20px;
+		margin-bottom: 20px;
+		border-radius: 7px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		h2 {
+			font-size: 18px !important;
+			margin: 0;
+		}
+	}
+}
+
+.global_setting_heading_section_closed {
+	h3 {
+		&.setting_heading {
+			margin: 0 !important;
+
+			a {
+				&.setting_heading_toggle {
+					background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='h-5 w-5' viewBox='0 0 20 20' fill='%236648fe'%3E%3Cpath fill-rule='evenodd' d='M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z' clip-rule='evenodd' /%3E%3C/svg%3E");
+					width: 26px;
+					height: 26px;
+					background-repeat: no-repeat;
+					background-size: contain;
+				}
+			}
+
+		}
+	}
+
+	.description {
+		display: none;
+	}
+}
+
+#global_setting_group_actions {
+	display: none;
+	margin-bottom: 0px;
+
+	@media screen and (max-width: 782px) {
+		text-align: center;
+		.pull-right {
+			float: none !important;
+		}
+	}
+}
+
+.form-table td fieldset.radio_fields {
+	label {
+		display: inline-block !important;
+		margin-right: 10px !important;
+	}
+
+	&:last-child {
+		margin-right: 0 !important;
+	}
+}
+
+.setting-form-wrap {
+	.setting-select-wrapper {
+		width: 100% !important;
+		display: none;
+
+		select {
+			width: 100% !important;
+		}
+
+		.select2-container--cbx {
+			width: 100% !important;
+			max-width: 100% !important;
+		}
+	}
+
+	@media screen and (max-width: 782px) {
+		.setting-tabs {
+			display: none !important;
+		}
+		.setting-select-wrapper {
+			display: block !important;
+
+
+		}
+	}
+}
+
+//@import "chota/setting_fields/color"; //this is imported in chota
+//@import "chota/setting_fields/multicheck";
+//@import "chota/setting_fields/checkbox";
+
+@import "chota/setting_fields/file";
+@import "chota/magic_check/magic_extras";
+
+
+.xyz-filter-wrap {
+	display: flex;
+
+	.xyz-filter-selected-wrap {
+		display: flex;
+
+		.xyz-filter-selected {
+			border-right: 0 !important;
+			border-radius: 4px 0 0 4px !important;
+
+		}
+
+		.xyz-filter-selected-remove {
+			border-radius: 0 4px 4px 0 !important;
+			margin-left: 0 !important;
+			cursor: pointer;
+		}
+	}
+}
+
+.global_setting_submit_buttons_wrap{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px 0 0 0 !important;
+
+	.pull-right{
+		margin-left: auto !important;
+	}
+
+	.pull-left{
+		margin-right: auto !important;
+	}
+
+	p.submit{
+		margin-left: auto !important;
+		padding: 0 !important;
+		margin-bottom: 0 !important;
+		//margin: 0 10px 0 0 !important;
+	}
+
+	details{
+		summary{
+			cursor: pointer;
+			margin-left: 5px;
+			border: 1px solid var(--color-primary);
+			border-radius: 50%;
+			height: 28px;
+			width: 28px;
+			&:before{
+				height: 28px;
+				width: 28px;
+				font-size: 28px;
+				line-height: 1;
+			}
+		}
+	}
+}
+
+.plugin_check_wrap{
+	color: var(--color-error);
+	&.plugin_check_wrap_on{
+		color: var(--color-success);
+	}
+}
+
+tr.global_setting_common_section{
+	border-bottom: 1px solid #cccc;
+	&:hover{
+		//background-color: #D4F1F4;
+	}
+}

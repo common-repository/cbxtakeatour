@@ -1,0 +1,1174 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2024-04-01 12:19+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: templates/admin/tours_add.php:298
+msgid "#HTML element id with(with hash at start) "
+msgstr ""
+
+#: templates/admin/tours_add.php:221
+msgid "#html_element_id"
+msgstr ""
+
+#. %s template
+#: includes/cbxtakeatour-tpl-loader.php:99
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:988
+msgid ""
+"<strong>Please note that this process can not be undone, and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: templates/admin/tours_add.php:619
+msgid "Actions"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:542
+#: includes/class-cbxtakeatour-settings.php:902
+#: templates/admin/tours_list.php:37
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:541
+msgid "Add New Tour"
+msgstr ""
+
+#: templates/admin/tours_add.php:280
+msgid "Add Step"
+msgstr ""
+
+#: templates/admin/tours_add.php:520
+msgid "Add tittle, add content and check settings"
+msgstr ""
+
+#: templates/admin/tours_list.php:88
+msgid "All"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1251
+msgid "All Tour auto drafts deleted"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:539
+msgid "All Tours"
+msgstr ""
+
+#: templates/admin/tours_add.php:110
+msgid "Animate Backdrop"
+msgstr ""
+
+#: templates/admin/tours_add.php:98
+msgid "Animate Dialog"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:394
+msgid "Are you sure to remove all steps?"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:393
+msgid "Are you sure to remove this step?"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:397
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:422
+msgid "Attention"
+msgstr ""
+
+#: templates/admin/tours_add.php:362
+msgid "Auto-start"
+msgstr ""
+
+#: templates/admin/tours_add.php:41
+msgid "Back"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:854
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:172
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:102
+#: widgets/classic-widgets/views/admin.php:117
+msgid "Block Button (Full Width)"
+msgstr ""
+
+#: templates/admin/tours_add.php:376
+msgid "Block Button(Full Width)"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:181
+msgid "Blue"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:134
+msgid "Bottom"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:855 templates/admin/tours_add.php:389
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:186
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:114
+msgid "Button Align"
+msgstr ""
+
+#: widgets/classic-widgets/views/admin.php:137
+msgid "Button Alignment"
+msgstr ""
+
+#: widgets/classic-widgets/views/admin.php:68
+msgid "Button Text (Leave empty to use tour post meta setting)"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:851
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:135
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:71
+msgid "Button Text (Leave empty to use tour post meta)"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:406
+#: admin/class-cbxtakeatour-admin.php:427
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:411
+msgid "cancel and close"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:973
+msgid "CBX Blocks"
+msgstr ""
+
+#: templates/admin/support.php:199
+msgid "CBX Take a Tour Plugin Details"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:537
+msgid "CBX Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:844
+#: widgets/classic-widgets/class-cbxtakeatour-widget.php:35
+#: widgets/classic-widgets/class-cbxtakeatour-widget.php:68
+#: widgets/classic-widgets/class-cbxtakeatour-widget.php:150
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:39
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:53
+msgid "CBX Tour - User Walkthroughs"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Tour - User Walkthroughs & Guided Tours"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:737
+#, php-format
+msgid ""
+"CBX Tour - User Walkthroughs & Guided Tours Pro has extended features and "
+"more controls, <a style=\"color:#6648fe !important; font-weight: bold;\" "
+"target=\"_blank\" href=\"%s\">try it</a>  - Codeboxr Team"
+msgstr ""
+
+#: widgets/classic-widgets/class-cbxtakeatour-widget.php:38
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:54
+msgid "CBX Tour - User Walkthroughs & Guided Tours Widget"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:848
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:83
+msgid "CBX Tour - User Walkthroughs Settings"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:113
+msgid "CBX Tours"
+msgstr ""
+
+#: templates/admin/support.php:31
+msgid "CBX Tours: Support & Docs"
+msgstr ""
+
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:57
+msgid "CBX Widgets"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:550
+msgid "cbxtour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:800 templates/admin/tours_add.php:396
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:190
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:118
+#: widgets/classic-widgets/views/admin.php:143
+msgid "Center"
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:269
+#, php-format
+msgid "Change to %s"
+msgstr ""
+
+#: templates/admin/tours_add.php:544
+msgid "Change tour settings as your need"
+msgstr ""
+
+#: templates/admin/support.php:81
+msgid "Changelog Core Plugin"
+msgstr ""
+
+#: templates/admin/support.php:137
+msgid "Changelog Pro Addon"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:703
+#, php-format
+msgid ""
+"Check <a style=\"color:#6648fe !important; font-weight: bold;\" href=\"%s\">"
+"Settings</a> | <a style=\"color:#6648fe !important; font-weight: bold;\" "
+"href=\"%s\" target=\"_blank\">Documentation</a> | Create <a style=\"color:"
+"#6648fe !important; font-weight: bold;\" href=\"%s\" >Tour</a>"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:685
+#, php-format
+msgid ""
+"Check <a style=\"color:#6648fe !important; font-weight: bold;\" href=\"%s\">"
+"Settings</a> | <a style=\"color:#6648fe !important; font-weight: bold;\" "
+"href=\"%s\" target=\"_blank\">Documentation</a> | Create <a style=\"color:"
+"#6648fe !important; font-weight: bold;\" href=\"%s\">Tour</a>"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:438
+msgid "Check All"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1197
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#9c27b0 !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#9c27b0 !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:767
+msgid "Choose Color"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:735
+msgid "Choose File"
+msgstr ""
+
+#: templates/admin/tours_list.php:44
+msgid "Clean Auto-Draft"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:407
+msgid "Clear"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:412
+msgid "clear and close"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:580
+#: includes/class-cbxtakeatour-listing.php:155
+#: templates/admin/tours_add.php:658
+msgid "Click to clipboard"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:390
+#: includes/class-cbxtakeatour-listing.php:155
+#: templates/admin/tours_add.php:660
+msgid "Click to copy"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:242
+msgid "Click to show hide"
+msgstr ""
+
+#: templates/admin/support.php:281
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#: public/class-cbxtakeatour-public.php:273
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:413
+msgid "color input field"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:401
+msgid "color picker dialog"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:414
+msgid "color selection area"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:403
+msgid "color swatch"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:425
+msgid "Confirmation"
+msgstr ""
+
+#: templates/admin/tours_add.php:241 templates/admin/tours_add.php:310
+#: templates/admin/tours_add.php:312
+msgid "Content"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:389
+msgid "Copied"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:391
+msgid "Copied to clipboard"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:388
+msgid "Copy"
+msgstr ""
+
+#: templates/admin/support.php:227
+msgid "Core Plugin Support"
+msgstr ""
+
+#: templates/admin/tours_add.php:521
+msgid "Create Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:188
+#: includes/class-cbxtakeatour-listing.php:199
+msgid "Created"
+msgstr ""
+
+#: templates/admin/tours_add.php:557
+msgid "Custom Style"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:179
+msgid "Default"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:988
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: templates/admin/tours_add.php:205 templates/admin/tours_add.php:289
+msgid "Delete Step"
+msgstr ""
+
+#: widgets/classic-widgets/views/admin.php:77
+msgid "Display Button"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:852
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:144
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:78
+msgid "Display Tour Button"
+msgstr ""
+
+#: templates/admin/tours_add.php:350
+msgid "Display tour button"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1042
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/support.php:209
+msgid "Documentation & User Guide"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:799 templates/admin/tours_list.php:99
+msgid "Draft"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:543
+msgid "Edit Tour"
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:101
+msgid "Edit User"
+msgstr ""
+
+#: templates/admin/tours_add.php:214 templates/admin/tours_add.php:295
+msgid "Element"
+msgstr ""
+
+#: templates/admin/tours_add.php:122
+msgid "Enable Keyboard Shortcuts"
+msgstr ""
+
+#: templates/admin/tours_add.php:138
+msgid "Enable Tour JS Debug"
+msgstr ""
+
+#: templates/admin/tours_add.php:262 templates/admin/tours_add.php:317
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:848
+#: public/class-cbxtakeatour-public.php:118
+msgid "End tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:423
+msgid "Error"
+msgstr ""
+
+#: templates/admin/tours_add.php:130
+msgid "Exit on Click Outside"
+msgstr ""
+
+#: templates/admin/tours_add.php:126
+msgid "Exit on ESC"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1014
+msgid "Explore Tours"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1313
+msgid "Failed to trash"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:928
+msgid "Following database tables will be reset/deleted and then re-created."
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:894
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"WordPress core option table"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1040
+msgid "Free Support"
+msgstr ""
+
+#: templates/admin/support.php:50
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:121
+#: admin/class-cbxtakeatour-admin.php:122
+msgid "Global Setting"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:447 templates/admin/support.php:38
+#: templates/admin/tours_add.php:42 templates/admin/tours_error.php:37
+#: templates/admin/tours_list.php:45
+msgid "Global Settings"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:182
+msgid "Green"
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:106
+msgid "Guest User"
+msgstr ""
+
+#: templates/admin/support.php:188
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:128
+#: admin/class-cbxtakeatour-admin.php:129
+msgid "Helps & Updates"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:165
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:83
+#: widgets/classic-widgets/views/admin.php:84
+msgid "Hide"
+msgstr ""
+
+#: templates/admin/tours_add.php:106
+msgid "Hide Next Button"
+msgstr ""
+
+#: templates/admin/tours_add.php:102
+msgid "Hide Prev Button"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codeboxr.com/product/cbx-tour-user-walkthroughs-guided-tours-for-"
+"wordpress//"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:415
+msgid "hue selection slider"
+msgstr ""
+
+#: templates/admin/tours_add.php:556
+msgid ""
+"If you choose custom layout from setting then adjust custom styles as need "
+"from this tab."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:420
+msgid "Info"
+msgstr ""
+
+#. Description of the plugin
+msgid "Interactive tour creator for product/service feature for wordpress"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:239
+msgid "Invalid tour or you don't have permission to edit this tour."
+msgstr ""
+
+#: templates/admin/tours_add.php:443
+msgid "Layout"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:801
+#: includes/class-cbxtakeatour-helper.php:135 templates/admin/tours_add.php:398
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:191
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:119
+#: widgets/classic-widgets/views/admin.php:144
+msgid "Left"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:424
+msgid "Loading"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:975
+msgid "Loading ..."
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:258
+#: templates/admin/tours_add.php:639
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:846
+#: public/class-cbxtakeatour-public.php:116
+msgid "Next"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:396
+#: admin/class-cbxtakeatour-admin.php:817
+#: includes/class-cbxtakeatour-helper.php:152
+#: includes/class-cbxtakeatour-helper.php:992
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:149
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:163
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:177
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:95
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:107
+#: widgets/classic-widgets/views/admin.php:104
+#: widgets/classic-widgets/views/admin.php:124
+msgid "No"
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:554
+msgid "No logs found. Please change your search criteria for better result."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:546
+msgid "No tours available, please create one."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:803 templates/admin/tours_add.php:402
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:193
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:121
+#: widgets/classic-widgets/views/admin.php:146
+msgid "None"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:547
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:150
+msgid "Number of items per page"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:426
+msgid "OK"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:987
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:398
+msgid "Once you delete, it's gone forever. You can not revert it back."
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:900
+#: includes/class-cbxtakeatour-helper.php:921
+msgid "Option ID"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:899
+#: includes/class-cbxtakeatour-helper.php:920
+msgid "Option Name"
+msgstr ""
+
+#: templates/admin/support.php:244
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:538
+msgid "Parent Tour:"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:844
+#: public/class-cbxtakeatour-public.php:114
+msgid "Pause"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:802
+#: templates/admin/tours_list.php:103
+msgid "Pending"
+msgstr ""
+
+#: includes/class-cbxtakeatour-listing.php:263
+msgid "Permanent Delete"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:445
+msgid "Please check the captcha."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:435
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:434
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:432
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:436
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:433
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:441
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:442
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:444
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:443
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:440
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:439
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:437
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:438
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:431
+msgid "Please fix this field."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:376
+#: includes/class-cbxtakeatour-settings.php:549
+#: includes/class-cbxtakeatour-settings.php:636
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:913
+msgid "Please select  a tour"
+msgstr ""
+
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:239
+msgid "Please select a tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:535
+msgctxt "Post Type General Name"
+msgid "CBX Tours"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:536
+msgctxt "Post Type Singular Name"
+msgid "CBX Tour"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:847
+#: public/class-cbxtakeatour-public.php:117
+msgid "Prev"
+msgstr ""
+
+#: templates/admin/tours_list.php:95
+msgid "Private"
+msgstr ""
+
+#: templates/admin/support.php:237
+msgid "Pro Addon Support"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1046
+msgid "Pro Support"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:800 templates/admin/tours_list.php:91
+msgid "Publish"
+msgstr ""
+
+#: templates/admin/tours_add.php:536
+msgid "Put steps - #html id, step title, step information"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:180
+msgid "Red"
+msgstr ""
+
+#: templates/admin/tours_add.php:334
+msgid "Redirect Url : "
+msgstr ""
+
+#: templates/admin/tours_add.php:281
+msgid "Remove All"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:372
+msgid "Request failed, please reload the page."
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:998
+msgid "Reset all data"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:999
+msgid "Reset Data"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:999
+msgid "Reset option values and all tables created by this plugin"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:845
+#: public/class-cbxtakeatour-public.php:115
+msgid "Resume"
+msgstr ""
+
+#: templates/admin/support.php:217
+msgid "Review & Rate CBX Tour Plugin"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1041
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:802
+#: includes/class-cbxtakeatour-helper.php:136 templates/admin/tours_add.php:400
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:192
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:120
+#: widgets/classic-widgets/views/admin.php:145
+msgid "Right"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:405
+msgid "Save"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:410
+msgid "save and close"
+msgstr ""
+
+#: templates/admin/tours_add.php:642
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:1122
+#: templates/admin/settings.php:37
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:449 templates/admin/tours_list.php:115
+msgid "Search"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:378
+msgid "Search here"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:545
+msgid "Search Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:771
+#: admin/class-cbxtakeatour-admin.php:849
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:103
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:122
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:124
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:61
+#: widgets/classic-widgets/views/admin.php:35
+#: widgets/classic-widgets/views/admin.php:53
+msgid "Select Tour"
+msgstr ""
+
+#: templates/admin/tours_add.php:438
+msgid "Select Tour layout (Need to save the post)"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:416
+msgid "selection slider"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1013
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:190
+#: includes/class-cbxtakeatour-listing.php:201
+#: templates/admin/tours_add.php:654
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:164
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:82
+#: widgets/classic-widgets/views/admin.php:83
+msgid "Show"
+msgstr ""
+
+#: templates/admin/tours_add.php:134
+msgid "Show Close Button"
+msgstr ""
+
+#: templates/admin/tours_add.php:114
+msgid "Show Step Dots"
+msgstr ""
+
+#: templates/admin/tours_add.php:118
+msgid "Show Step Progress"
+msgstr ""
+
+#: templates/admin/tours_error.php:17
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1359
+msgid "Sorry tour title can not be empty"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1362
+msgid "Sorry tour title length is too short"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1071
+#: admin/class-cbxtakeatour-admin.php:1097
+#: admin/class-cbxtakeatour-admin.php:1256
+#: admin/class-cbxtakeatour-admin.php:1296
+msgid "Sorry, you don't have enough permission"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1345
+msgid "Sorry, you don't have permission to edit this post."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:187
+#: includes/class-cbxtakeatour-listing.php:198
+#: templates/admin/tours_add.php:622
+msgid "Status"
+msgstr ""
+
+#: templates/admin/tours_add.php:201 templates/admin/tours_add.php:287
+msgid "Step"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:421
+msgid "Success"
+msgstr ""
+
+#: templates/admin/settings.php:36
+msgid "Support & Docs"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:933
+#: includes/class-cbxtakeatour-helper.php:955
+msgid "Table Name"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:934
+#: includes/class-cbxtakeatour-helper.php:956
+msgid "Table Name in DB"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1414
+#: includes/class-cbxtakeatour-helper.php:82
+msgid "Take a Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:596 templates/admin/tours_add.php:77
+#: templates/admin/tours_add.php:565
+msgid "Take a tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:682
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Tour - User Walkthroughs & "
+"Guided Tours</strong> V%s - Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:700
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Tour - User Walkthroughs & Guided "
+"Tours</strong> V%s , enjoy the new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: templates/admin/tours_add.php:336
+msgid "The URL link will redirect to the end of the tour."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:430
+msgid "This field is required."
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:419
+msgid "Tip"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:185
+#: includes/class-cbxtakeatour-listing.php:196
+#: templates/admin/tours_add.php:228 templates/admin/tours_add.php:235
+#: templates/admin/tours_add.php:303 templates/admin/tours_add.php:305
+#: widgets/classic-widgets/views/admin.php:23
+msgid "Title"
+msgstr ""
+
+#: templates/admin/tours_add.php:528
+msgid "Title is like a post title"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:1097
+msgid "Toggle All Sections"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:402
+msgid "toggle color picker dialog"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:873
+msgid "Tools"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:981
+msgid "Tools Settings"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:133
+msgid "Top"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:853
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:158
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:90
+#: widgets/classic-widgets/views/admin.php:97
+msgid "Tour Auto-start"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:629
+msgid "Tour Box Preview"
+msgstr ""
+
+#: templates/admin/tours_add.php:408
+msgid "Tour Button text"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:622 templates/admin/tours_add.php:609
+msgid "Tour Button/Link Preview"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1211
+msgid "Tour created successfully"
+msgstr ""
+
+#: templates/admin/tours_add.php:485
+msgid "Tour Preview"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1067
+msgid "Tour reset setting html loaded successfully"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1443
+msgid "Tour save/update failed"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1331
+msgid "Tour saved/updated successfully"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1092
+msgid "Tour setting reset scheduled successfully"
+msgstr ""
+
+#: templates/admin/tours_add.php:147 templates/admin/tours_add.php:545
+msgid "Tour Settings"
+msgstr ""
+
+#: templates/admin/tours_add.php:146
+msgid "Tour Steps"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:551
+msgid "Tour steps"
+msgstr ""
+
+#: templates/admin/tours_add.php:60
+msgid "Tour Title"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1290
+msgid "Tour trashed successfully"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:114 templates/admin/tours_add.php:35
+#: templates/admin/tours_list.php:35
+msgid "Tours"
+msgstr ""
+
+#: templates/admin/tours_error.php:31
+msgid "Tours: Error"
+msgstr ""
+
+#: templates/admin/settings.php:30
+msgid "Tours: Global Settings"
+msgstr ""
+
+#: templates/admin/tours_list.php:107
+msgid "Trash"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1048
+msgid "Try Pro Addon"
+msgstr ""
+
+#: includes/class-cbxtakeatour-settings.php:438
+msgid "Uncheck All"
+msgstr ""
+
+#: includes/class-cbxtakeatour-helper.php:444
+#: includes/class-cbxtakeatour-helper.php:469
+msgid "Unnamed"
+msgstr ""
+
+#: templates/admin/tours_add.php:288
+msgid "Untitled"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1216
+#: admin/class-cbxtakeatour-admin.php:1341
+msgid "Untitled tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:544
+msgid "Update Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:189
+#: includes/class-cbxtakeatour-listing.php:200
+msgid "Updated"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:799
+#: admin/class-cbxtakeatour-admin.php:815
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:147
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:161
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:175
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:189
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:81
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:93
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:105
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:117
+#: widgets/classic-widgets/views/admin.php:80
+#: widgets/classic-widgets/views/admin.php:100
+#: widgets/classic-widgets/views/admin.php:120
+#: widgets/classic-widgets/views/admin.php:140
+msgid "Use meta setting"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:404
+msgid "use previous color"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:186
+#: includes/class-cbxtakeatour-listing.php:197
+msgid "User"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:1367
+msgid "Validation failed, pls check error notes"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:540
+msgid "View Tour"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:377
+msgid "Window Title"
+msgstr ""
+
+#: templates/admin/tours_add.php:537
+msgid "Write Steps"
+msgstr ""
+
+#: templates/admin/tours_add.php:529
+msgid "Write Tour Title"
+msgstr ""
+
+#: admin/class-cbxtakeatour-admin.php:395
+#: admin/class-cbxtakeatour-admin.php:816
+#: includes/class-cbxtakeatour-helper.php:151
+#: includes/class-cbxtakeatour-helper.php:991
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:148
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:162
+#: widgets/elementor-widgets/class-cbxtakeatour-elemwidget.php:176
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:94
+#: widgets/vc-element/class-cbxtakeatour-wpbwidget.php:106
+#: widgets/classic-widgets/views/admin.php:103
+#: widgets/classic-widgets/views/admin.php:123
+msgid "Yes"
+msgstr ""

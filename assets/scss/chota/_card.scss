@@ -1,0 +1,63 @@
+.cbx-chota {
+  .card {
+    padding: 10px !important;
+    border-radius: 4px;
+    background: var(--bg-color);
+    box-shadow: 0 1px 3px var(--color-grey);
+
+    &.card-menu{
+
+      width: auto;
+      min-width: auto !important;
+      ul{
+        list-style: none;
+        margin: 0 !important;
+        padding: 0 !important;
+        li{
+          margin-bottom: 5px !important;
+          &:last-child{
+            margin-bottom: 0;
+          }
+
+          a, button{
+            width: 100%;
+            text-align: left;
+          }
+        }
+      }
+    }
+
+    &.card-menu-right{
+      left: auto !important;
+      right: 0 !important;
+    }
+  }
+
+  .card p:last-child {
+    margin: 0;
+  }
+
+  .card header > * {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+details {
+  .card {
+    z-index: 9;
+    margin-top: 10px;
+  }
+}
+
+details.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+details.dropdown > :last-child {
+  position: absolute;
+  left: 0;
+  background: white;
+  white-space: nowrap;
+}

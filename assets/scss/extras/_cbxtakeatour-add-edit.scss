@@ -1,0 +1,133 @@
+#tour_postbox {
+  .metabox-holder.takeatour_meta_holder {
+    //width: 600px;
+    //max-width: 100%;
+  }
+
+  select, input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+    //width: 100%;
+  }
+
+  .pixel_inputs {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    .pixel_input {
+      padding: 0;
+      margin: 10px 0 0 0;
+      display: inline-block;
+      margin-right: 5px;
+
+      &:last-child {
+        margin-right: 0px;
+      }
+
+      .pixel_input_wrap {
+        display: flex;
+        position: relative;
+
+        .pixel_input_append_label {
+          font-size: 12px !important;
+          line-height: 1.2 !important;
+          position: absolute;
+          right: 0;
+          top: -14px;
+          width: 100%;
+          text-align: center;
+
+          background-color: var(--color-primary);
+          color: #fff;
+          border-radius: 4px 4px 0 0;
+
+        }
+
+        .pixel_input_text {
+          max-width: 60px;
+          font-size: 14px !important;
+          line-height: 1.2 !important;
+          padding: 1px 3px !important;
+          margin: 0 !important;
+          border-right: 0 !important;
+          border-radius: 4px 0 0 4px !important;
+          text-align: center;
+        }
+
+        .pixel_input_append {
+          font-size: 14px !important;
+          line-height: 26px !important;
+          padding: 1px 10px !important;
+          margin: 0 !important;
+          background-color: rgba(77, 74, 88, 0.3);
+          border-radius: 0 4px 4px 0 !important;
+          cursor: pointer;
+        }
+      }
+
+    }
+
+    &.pixel_inputs_labeled {
+      .pixel_input {
+        .pixel_input_wrap {
+          .pixel_input_text {
+            border-radius: 0 0 0 4px !important;
+          }
+
+          .pixel_input_append {
+            border-radius: 0 0 4px 0 !important;
+          }
+        }
+      }
+    }
+  }
+
+  #cbxtourmetabox_entries {
+    width: 100%;
+    max-width: 600px;
+
+    .cbxtourmetabox_entry {
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+      //padding: 4px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
+
+      .cbxtourmetabox_wrap {
+        padding: 10px !important;
+        border-radius: 0 0 5px 5px !important;
+      }
+
+      .cbxtourmetabox_step_heading {
+        display: flex;
+        //justify-content: space-between;
+        align-items: center;
+        padding: 5px 10px !important;
+
+        border-radius: 5px 5px 0 0 !important;
+        border-bottom: 1px solid #ccc;
+
+        .draggable {
+          cursor: pointer;
+
+        }
+
+        h3 {
+          cursor: pointer;
+          //margin: 20%;
+          //text-align: center !important;
+          font-size: 16px !important;
+          line-height: 1.2 !important;
+          margin: 0 0 0 20px !important;
+        }
+
+        .delete-step {
+          cursor: pointer;
+          color: red;
+          //right: 0;
+          //float: right;
+          margin-left: auto;
+        }
+      }
+    }
+  }
+}
